@@ -1,1 +1,1 @@
-# images
+# only images
